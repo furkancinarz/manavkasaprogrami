@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main {
+public class main {
     public static void main(String[] args) {
         double armut =2.14 , elma =3.67, domates =1.11, muz =0.95, patlıcan =5.00;
         double toplamtutar;
